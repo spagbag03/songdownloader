@@ -3,7 +3,7 @@ Allows the user to download a song via the song name and artist
 
 Errors:
     InfoNeeded --> caused when not enough information is given
-    SongNotFound --> caused when a given song cannot be SongNotFound
+    SongNotFound --> caused when a given song cannot be found
 
 
 Process:
